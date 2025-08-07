@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://seu-usuario.github.io/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://seu-usuario.github.io/services.html</loc>
+  </url>
+  <url>
+    <loc>https://seu-usuario.github.io/contact.html</loc>
+  </url>
+  <url>
+    <loc>https://seu-usuario.github.io/payments.html</loc>
+  </url>
+  <url>
+    <loc>https://seu-usuario.github.io/contract.html</loc>
+  </url>
+</urlset>
